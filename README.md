@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a 24 year-old Web Developer student, currently studying some of the most used and relevant technologies for web developement. I love learning, especially anything programming related!
+I'm a 24 year-old Junior Full-Stack Developer, currently studying some of the most used and relevant technologies for web developement. I love learning, especially anything programming related!
 
 
 ## 🌐 Socials:
